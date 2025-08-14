@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\bin\Debug\net8.0\InventorySystem.exe
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\bin\Debug\net8.0\InventorySystem.deps.json
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\bin\Debug\net8.0\InventorySystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\bin\Debug\net8.0\InventorySystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\bin\Debug\net8.0\InventorySystem.pdb
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\refint\InventorySystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.pdb
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\InventorySystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\InventorySystem\obj\Debug\net8.0\ref\InventorySystem.dll
