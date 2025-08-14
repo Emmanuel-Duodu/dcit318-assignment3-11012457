@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.exe
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.deps.json
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\bin\Debug\net8.0\SchoolGradingSystem.pdb
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\refint\SchoolGradingSystem.dll
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.pdb
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\SchoolGradingSystem.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\dcit318\-dcit318-assignment3-11340961\SchoolGradingSystem\obj\Debug\net8.0\ref\SchoolGradingSystem.dll
